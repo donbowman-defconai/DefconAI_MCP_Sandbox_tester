@@ -3,27 +3,27 @@
     "color": {
       "bg": {
         "default": {
-          "$value": "#FFFFFF",
+          "$value": "#ffffff",
           "$type": "color"
         },
         "surface": {
-          "$value": "{Primitives.gray.50}",
+          "$value": "#ffffff",
           "$type": "color"
         }
       },
       "text": {
         "primary": {
-          "$value": "{Primitives.gray.900}",
+          "$value": "#ffffff",
           "$type": "color"
         },
         "secondary": {
-          "$value": "{Primitives.gray.500}",
+          "$value": "#ffffff",
           "$type": "color"
         }
       },
       "action": {
         "primary": {
-          "$value": "{Primitives.blue.500}",
+          "$value": "#ffffff",
           "$type": "color",
           "$description": "Primary buttons and links",
           "$extensions": {
@@ -33,20 +33,20 @@
           }
         },
         "primary-hover": {
-          "$value": "{Primitives.blue.700}",
+          "$value": "#ffffff",
           "$type": "color"
         }
       },
       "border": {
         "default": {
-          "$value": "{Primitives.gray.300}",
+          "$value": "#ffffff",
           "$type": "color"
         }
       }
     },
     "space": {
       "inset": {
-        "$value": "{Primitives.space.md}",
+        "$value": 0,
         "$type": "number"
       }
     }
@@ -55,27 +55,27 @@
     "color": {
       "bg": {
         "default": {
-          "$value": "#0B0F19",
+          "$value": "#0b0f19",
           "$type": "color"
         },
         "surface": {
-          "$value": "{Primitives.gray.900}",
+          "$value": "#ffffff",
           "$type": "color"
         }
       },
       "text": {
         "primary": {
-          "$value": "{Primitives.gray.50}",
+          "$value": "#ffffff",
           "$type": "color"
         },
         "secondary": {
-          "$value": "{Primitives.gray.300}",
+          "$value": "#ffffff",
           "$type": "color"
         }
       },
       "action": {
         "primary": {
-          "$value": "{Primitives.blue.500}",
+          "$value": "#ffffff",
           "$type": "color",
           "$description": "Primary buttons and links",
           "$extensions": {
@@ -85,20 +85,20 @@
           }
         },
         "primary-hover": {
-          "$value": "{Primitives.blue.100}",
+          "$value": "#ffffff",
           "$type": "color"
         }
       },
       "border": {
         "default": {
-          "$value": "{Primitives.gray.700}",
+          "$value": "#ffffff",
           "$type": "color"
         }
       }
     },
     "space": {
       "inset": {
-        "$value": "{Primitives.space.md}",
+        "$value": 0,
         "$type": "number"
       }
     }
